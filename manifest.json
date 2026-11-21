@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "GuillaumeGomez",
+  "repo": "doc-comment",
+  "versions": [
+    {
+      "commit": "2cf5d3c8595374191ed587e9476e99b410f377d3",
+      "parsed_at": "2026-11-21T22:41:11.060094+00:00",
+      "tag": "v0.3.4",
+      "filetree": "filetree/2cf5d3c8595374191ed587e9476e99b410f377d3.nq.gz",
+      "blobs": [
+        "blob/a81db3678b7b3092ed9cad2d2596d17cfe035647.nq.gz",
+        "blob/77348e762c68d44b45bd6b29f8ea05208a306ec7.nq.gz",
+        "blob/4eda8cc0d38d2b1bec59d522fc0d32a409e4a559.nq.gz",
+        "blob/7c3fc392b52c8f84cf1cce7fb066ec54a6961af8.nq.gz",
+        "blob/c86b850e2a55ae83d417369845ba5d1ba0031595.nq.gz",
+        "blob/fa8d85ac52f19959d6fc9942c265708b4b3c2b04.nq.gz",
+        "blob/6254288db3bec2367c0177d42b4bf8e969c1a1e9.nq.gz",
+        "blob/a4a4cfffff13b6933c5ebe2a9473c16b028704c9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
