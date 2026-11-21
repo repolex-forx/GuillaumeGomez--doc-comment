@@ -1,9 +1,8 @@
 {
-  "next_action": "combine",
-  "phase_completed": "enrich",
+  "next_action": "done",
+  "phase_completed": "combine",
   "commit_sha": "2cf5d3c8595374191ed587e9476e99b410f377d3",
-  "ts": "2026-11-21T22:49:13Z",
-  "call_sites": 15,
-  "call_targets_resolved": 15,
-  "import_targets_resolved": 1
+  "ts": "2026-11-21T22:51:34Z",
+  "total_triples": 3938,
+  "manifest": "/home/runner/work/forx/forx/storage/manifest.json"
 }
